@@ -57,12 +57,13 @@ python main.py
 ```
 Le fichier `dépenses.csv` sera crée automatiquement au premier lancement
 
-**Menu pricipal**
+**Menu principal**
 
 Une fois le programme lancé, un menu intéractif s'affiche dans le terminal
 1. Ajouter une dépense
 2. Lister les dépenses
 3. Quitter
+
 L’utilisateur doit saisir le numéro correspondant à l’action souhaitée
 
 **Ajouter une dépense**
