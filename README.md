@@ -2,7 +2,7 @@
 
 Outil en ligne de commande permettant d’enregistrer des revenus et des dépenses, de les catégoriser et de suivre l’évolution du solde dans le temps.
 
-⚠️ Ce projet est personnel et ne remplace pas un gestionnaire de mots de passe professionnel.
+⚠️ Ce projet est personnel et ne remplace pas un gestionnaire de dépenses professionnel.
 
 ## Fonctionnalités
 
@@ -38,8 +38,8 @@ Outil en ligne de commande permettant d’enregistrer des revenus et des dépens
 ### Installation
 1. Cloner le dépôt :
 ```bash
-git clone <url-du-depot>
-cd Projet_Gestionnaire_mots_de_passe
+git clone https://github.com/Roland-Ung/Projet_Gestionnaire_de_depenses.git
+cd Projet_Gestionnaire_de_depenses
 ```
 
 2. Créer un environnement virtuel
