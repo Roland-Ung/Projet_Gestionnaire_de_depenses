@@ -96,9 +96,9 @@ Choisir l’option `3` dans le menu
 ```
 Projet_Gestionnaire_de_depenses/
 │
-├── main.py              Programme contenant chaque fonction et le 'main'
-├── depenses.csv         Fichier où sont enregistrées les dépenses
-├── .gitignore           Fichiers à exclure de Git (venv, password_store...)
-├── requirements.txt     Liste des dépendances Python
+├── main.py              #Programme contenant chaque fonction et le 'main'
+├── depenses.csv         #Fichier où sont enregistrées les dépenses
+├── .gitignore           #Fichiers à exclure de Git (venv, password_store...)
+├── requirements.txt     #Liste des dépendances Python
 └── README.md
 ```
