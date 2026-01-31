@@ -42,7 +42,7 @@ git clone https://github.com/Roland-Ung/Projet_Gestionnaire_de_depenses.git
 cd Projet_Gestionnaire_de_depenses
 ```
 
-2. Créer un environnement virtuel
+2. Créer un environnement virtuel (optionnel)
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Linux / macOS
