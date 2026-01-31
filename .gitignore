@@ -1,0 +1,15 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Données locales
+depenses.csv
