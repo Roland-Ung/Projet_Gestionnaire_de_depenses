@@ -1,7 +1,7 @@
 # Gestionnaire de dépenses en ligne de commande
 
 Outil en ligne de commande permettant d’enregistrer des revenus et des dépenses, de les catégoriser et de suivre l’évolution du solde dans le temps.
-⚠️ Ce projet est personnel et ne remplace pas un gestionnaire de mots de passe professionnel.
+\n⚠️ Ce projet est personnel et ne remplace pas un gestionnaire de mots de passe professionnel.
 
 ## Fonctionnalités
 
