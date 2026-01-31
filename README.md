@@ -27,3 +27,66 @@ Outil en ligne de commande permettant d’enregistrer des revenus et des dépens
 
 ### 5 — Consultation de l’historique des dépenses
 - Affiche les dépenses dans le terminal avec `date`, `montant`, `intitulé`, `catégorie`, `solde` (après l'opération)
+
+## Installation et utilisation
+
+### Prérequis
+- Python 3.8 ou plus récent
+- Un terminal (Linux, macOS ou Windows)
+
+### Installation
+1. Cloner le dépôt :
+```bash
+git clone <url-du-depot>
+cd Projet_Gestionnaire_mots_de_passe
+```
+
+2. Créer un environnement virtuel
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Linux / macOS
+.venv\Scripts\activate     # Windows
+```
+
+### Utilisation
+
+**Lancer le programme**
+```bash
+python main.py
+```
+Le fichier `dépenses.csv` sera crée automatiquement au premier lancement
+
+**Menu pricipal**
+Une fois le programme lancé, un menu intéractif s'affiche dans le terminal
+1. Ajouter une dépense
+2. Lister les dépenses
+3. Quitter
+L’utilisateur doit saisir le numéro correspondant à l’action souhaitée
+
+**Ajouter une dépense**
+1. Lancer le programme
+2. Choisir l’option `1` dans le menu  
+3. Renseigner :
+   - le montant (négatif pour une dépense, positif pour un revenu)
+   - l’intitulé
+   - la catégorie
+
+**Lister les dépenses**
+1. Lancer le programme
+2. Choisir l’option `2` dans le menu
+
+**Quitter le programme**
+Choisir l’option `3` dans le menu
+
+
+## Structure du projet
+
+```
+Projet_Gestionnaire_de_depenses/
+│
+├── main.py              Programme contenant chaque fonction et le 'main'
+├── depenses.csv         Fichier où sont enregistrées les dépenses
+├── .gitignore           Fichiers à exclure de Git (venv, password_store...)
+├── requirements.txt     Liste des dépendances Python
+└── README.md
+```
