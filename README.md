@@ -57,6 +57,8 @@ python main.py
 ```
 Le fichier `dépenses.csv` sera crée automatiquement au premier lancement
 
+
+
 **Menu principal**
 
 Une fois le programme lancé, un menu intéractif s'affiche dans le terminal
@@ -66,6 +68,8 @@ Une fois le programme lancé, un menu intéractif s'affiche dans le terminal
 
 L’utilisateur doit saisir le numéro correspondant à l’action souhaitée
 
+
+
 **Ajouter une dépense**
 1. Lancer le programme
 2. Choisir l’option `1` dans le menu  
@@ -74,9 +78,13 @@ L’utilisateur doit saisir le numéro correspondant à l’action souhaitée
    - l’intitulé
    - la catégorie
 
+
+
 **Lister les dépenses**
 1. Lancer le programme
 2. Choisir l’option `2` dans le menu
+
+
 
 **Quitter le programme**
 
