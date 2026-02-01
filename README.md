@@ -2,6 +2,11 @@
 
 ⚠️ Ce projet est personnel et ne remplace pas un gestionnaire de dépenses professionnel.
 
+## Objectifs
+- Développer un outil permettant de gérer et suivre des dépenses personnelles.
+- Mettre en place un menu interactif simple en ligne de commande.
+- Manipuler des fichiers, des structures de données.
+
 ## Fonctionnalités
 
 ### 1 — Initialisation du fichier de dépenses
